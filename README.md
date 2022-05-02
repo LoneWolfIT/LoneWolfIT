@@ -10,3 +10,5 @@
 LoneWolfIT/LoneWolfIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![My Tatsugotchi Pet and House](https://media.discordapp.net/attachments/845531978261856266/970548874081091624/room_view.gif)
