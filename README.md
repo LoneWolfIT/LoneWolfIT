@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoneWolfIT, but you can call me Max.
 - 👀 I’m interested in Software Development, and Information Security.
-- 🌱 I’m currently learning HTML5 / CSS.
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing just yet, but that might change soon 😁
 - 📫 How to reach me:
      I am currently unreachable except through GitHub.
