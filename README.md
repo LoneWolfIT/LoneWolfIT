@@ -11,4 +11,9 @@ LoneWolfIT/LoneWolfIT is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![My Tatsugotchi Pet and House](https://media.discordapp.net/attachments/845531978261856266/970548874081091624/room_view.gif)
+
+# Tatsugotchi House and Pet 
+![My Tatsugotchi Pet and House](./room_view.gif)
+
+Tatsugotchi is a bot that I use on Discord.
+More info can be found [here](https://tatsu.gg) or [here](https://community.tatsu.gg)
